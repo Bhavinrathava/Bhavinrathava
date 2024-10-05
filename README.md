@@ -2,7 +2,7 @@
 
 # Oi, World! I'm Bhavin 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Bhavinrathava&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
