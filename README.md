@@ -24,8 +24,16 @@ While I started my journey with **Deep Learning** and applications of AI in **Si
 <code><img width="10%" src="./ollama-black.svg"></code>
 </div>
 
-## 💼 Work Experience
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/barclays/barclays-ar21.svg"> </code> **Graduate Analyst (B.A.4)**
+## 💼 Work Experience (aka the Origin story of a Jack of All Trades)
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/barclays/barclays-ar21.svg"> </code> 
+**Graduate Analyst (B.A.4)**
+
+- **SpringBoot Developer** : I started my professional career as a Java Developer mainly developing SpringBoot APIs for Barclays' Central Data Repository Team. I excel in developing **Clean**, **Lean** and **Scalable** **REST** APIs. This was the time I devoted solely to learning the ropes of **Scalable Systems** and while polishing my **DevOps** skills on the way. I worked with **MongoDB** on a day-to-day basis and safe to say, I have developed an in-depth understanding in this Domain.
+  
+- **Full Stack** : As part of Stretch Assignments, I often worked on internal Team tools using **MERN** stack. Most Notably, I engineered the integration of various Internal tools into a single Portal that reduced the resource consumption by **over 60%** and tied seamless SSO based Sign-ins to further increase the efficacy of the tools.
+
+- **GraphQL** : Over my 2 year tenure at Barclays, I often dabbled in GraphQL APIs as well. Though Limited, I do have experience in building sub 200ms APIs here as well!  
+
 
 ## 🌟 Featured Projects
 
