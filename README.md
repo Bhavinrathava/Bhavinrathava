@@ -21,7 +21,7 @@ While I started my journey with **Deep Learning** and applications of AI in **Si
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img width="10%" src="./llama.svg"></code>
+<code><img width="10%" src="./ollama-black.svg"></code>
 </div>
 
 ## 💼 Work Experience
