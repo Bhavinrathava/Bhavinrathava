@@ -8,7 +8,7 @@
 
 I'm an **AI / ML Engineer** with a passion for converting models into services. I've been into Gaming since early childhood and OpenAI's Five in 2018 is what got me into AI and I've never looked back since. I specialize in creating E2E solutions with AI and love all things AI in general. 
 
-While I started my journey with **Deep Learning** and applications of AI in **Signal Processing**, I've built an extensive skillset around **Large Language Models** in the recent years and have helped multiple organizations with their AI Revolution. From Building Foundational Data Pipelines to standardize data processing to building End to End AI Solution pipelines that are not only **Fast** and **Resource Efficient**, but also **Modular** and **Extendable** to other Problem set, I've done it all!
+While I started my journey with **Deep Learning** and applications of AI in **Signal Processing**, I've built an extensive skillset around **Natural Language Processing** and **Large Language Models** in the recent years and have helped multiple organizations with their AI Revolution. From Building Foundational Data Pipelines to standardize data processing to building End to End AI Solution pipelines that are not only **Fast** and **Resource Efficient**, but also **Modular** and **Extendable** to similar Problem sets, I've done it all!
 
 </div>
 
@@ -20,7 +20,8 @@ While I started my journey with **Deep Learning** and applications of AI in **Si
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="./llama.svg"></code>
 </div>
 
 ## 💼 Work Experience
