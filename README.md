@@ -25,8 +25,7 @@ While I started my journey with **Deep Learning** and applications of AI in **Si
 </div>
 
 ## 💼 Work Experience
-
-- **Barclays**,Graduate Analyst (B.A.4)
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/barclays/barclays-ar21.svg"> </code> **Graduate Analyst (B.A.4)**
 
 ## 🌟 Featured Projects
 
