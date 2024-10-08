@@ -1,4 +1,4 @@
-[![header](./banner.png)](https://aar.one)
+[![header](./Banner.jpg)](https://www.linkedin.com/in/bhavinvr/)
 
 # Oi, World! I'm Bhavin 👋
 
@@ -24,22 +24,42 @@ While I started my journey with **Deep Learning** and applications of AI in **Si
 <code><img width="10%" src="./ollama-black.svg"></code>
 </div>
 
-## 💼 Work Experience (aka the Origin story of a Jack of All Trades)
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/barclays/barclays-ar21.svg"> </code> 
-**Graduate Analyst (B.A.4)**
+## 💼 Work Experience 
 
-- **SpringBoot Developer** : I started my professional career as a Java Developer mainly developing SpringBoot APIs for Barclays' Central Data Repository Team. I excel in developing **Clean**, **Lean** and **Scalable** **REST** APIs. This was the time I devoted solely to learning the ropes of **Scalable Systems** and while polishing my **DevOps** skills on the way. I worked with **MongoDB** on a day-to-day basis and safe to say, I have developed an in-depth understanding in this Domain.
+**Kellogg School of Management**
+
+Worked as : AI Researcher for Global Poverty Research Lab (GPRL)
+
+I worked as the **foundational AI Researcher** for GPRL labs and helped then extract key data points from Poverty Research Papers using LLM Powered Dashboards. During my tenure, I have engineered their first of a kind Dual Mode Dashboard for Data extractions that **switches** between **Live inference** and **Batch Inference modes** in order to facilitate PDF Data Extraction in Burst as well as Bulk Mode.
+
+**Automating Manual Workflows with LLMs** : By Automating their Manual Workflows with AI, I helped them reduce their operational costs by upto 60% and eliminated redundant human-in-the-loop, streamlining their workflow in the process. 
+
+**Multistage Querying Pipelines** : To address complicated context based questions, I developed a **novel Bookmark Dictionary Data representation format** that **compressed the size of PDF text by over 75%** and developed multi-stage extraction pipelines that allows extraction of complicated queries at a **fraction of original extraction cost**. 
+
+
+**Alo Index** 
+
+Worked as : **AI Engineering Intern** 
+
+Over the Summer of '24, I interned at Alo Index as an AI Intern and helped them with their AI Revolution. While the official title of my employment was in form of an internship, I essentially functioned as their Lead AI Developer and helped them integrate AI into their Business Critical Workflows. 
+
+**Data Pipelines** : A crucial contribution of mine during my tenure was standardizing and automating Feature Store creations with **Cloud Native Data Processing Pipelines**. I helped them build their first pipelines to generate various feature sets from Raw data to fast-track AI solution development. 
+
+**Image Classification Solutions** : I engineered their first Distance-to-Cluster based Image Classification algorithms that helped them reduce their workflow backlogs by 80%. 
+
+**Text Base Solutions**: By Leveraging the Language Capabilities of Self-Hosted LLMs, I built out E2E Dashboards for their Text Based verification Use-Cases, effectively cutting their Verification times by 60%. 
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/barclays/barclays-ar21.svg"> </code>
+<br>Worked as : **Graduate Analyst (B.A.4)**
+
+- **SpringBoot Developer** : I started my professional career as a Java Developer mainly developing SpringBoot APIs for Barclays' Central Data Repository Team. I excel in developing **Clean**, **Lean** and **Scalable** **REST APIs**. This was the time I devoted solely to learning the ropes of **Scalable Systems** and while polishing my **DevOps** skills on the way. I worked with **MongoDB** on a day-to-day basis and safe to say, I have developed an in-depth understanding in this Domain.
   
 - **Full Stack** : As part of Stretch Assignments, I often worked on internal Team tools using **MERN** stack. Most Notably, I engineered the integration of various Internal tools into a single Portal that reduced the resource consumption by **over 60%** and tied seamless SSO based Sign-ins to further increase the efficacy of the tools.
 
-- **GraphQL** : Over my 2 year tenure at Barclays, I often dabbled in GraphQL APIs as well. Though Limited, I do have experience in building sub 200ms APIs here as well!  
+- **GraphQL** : Over my 2 year tenure at Barclays, I often dabbled in GraphQL API development as well. Though Limited, I do have experience in building sub 200ms APIs here as well!  
 
 
-## 🌟 Featured Projects
 
-- **[Violet Void Theme](https://github.com/aaronedev/violet-void-theme)** 🟣: **Violet Void Theme** is a set of configuration files designed to give Windows an amazing visual overhaul with a sleek, violet-toned aesthetic. This theme applies consistent violet tones throughout the interface, providing a unique and cohesive look that enhances the user experience. In addition to the visual enhancements, I’ve also integrated several Linux-like functionalities into Windows, making the operating system more powerful and customizable for advanced users. Furthermore, I am working on custom glyphs to enhance the [Windows Terminal](https://github.com/microsoft/terminal) experience, making it more visually appealing and user-friendly.
-
-- I am working on a comprehensive **PowerShell profile** that integrates all my custom configurations into a powerful and cohesive setup. This profile is designed to streamline workflows and enhance productivity by leveraging the full potential of PowerShell, combined with my Violet Void Theme. Additionally, I am developing this profile to be fully featured and driven by Linux-like commands, bringing the familiarity and efficiency of Linux command-line tools to the Windows environment. Once finalized, I plan to publish this profile so that others can benefit from a fully optimized and visually appealing PowerShell environment.
 
 ## 📈 My GitHub stats
 
@@ -49,20 +69,5 @@ While I started my journey with **Deep Learning** and applications of AI in **Si
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavinrathava&theme=tokyonight&hide_border=true" alt="Bhavinrathava's Streak" height="165">
   </p>
 </div>
-
-## 📃 I love documentation
-
-Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://hackmd.io/" target="_blank">Hackmd.io</a>.
-
-In addition to my love for documentation, *I'm currently working on a custom Obsidian theme* as part of my **Violet Void theme** series. This theme features rich, deep purple colors with transparency effects, providing a sleek and modern look. I'm already using it myself, and it looks dope! I plan to release this theme soon so others can enjoy it as well.
-
-Whenever I write documentation, I try to keep the following steps in mind to ensure the reader gets the most out of it:
-
-1. **What** is this documentation about?
-2. **Why** is this documentation important?
-3. **How** can the reader use this documentation?
-4. **When** should the reader use this documentation?
-5. **Who** is this documentation for?
-
 
 ---
