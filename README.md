@@ -28,7 +28,7 @@ While I started my journey with **Deep Learning** and applications of AI in **Si
 
 **Kellogg School of Management**
 
-Worked as : AI Researcher for Global Poverty Research Lab (GPRL)
+Worked as : **AI Researcher for Global Poverty Research Lab (GPRL)**
 
 I worked as the **foundational AI Researcher** for GPRL labs and helped then extract key data points from Poverty Research Papers using LLM Powered Dashboards. During my tenure, I have engineered their first of a kind Dual Mode Dashboard for Data extractions that **switches** between **Live inference** and **Batch Inference modes** in order to facilitate PDF Data Extraction in Burst as well as Bulk Mode.
 
