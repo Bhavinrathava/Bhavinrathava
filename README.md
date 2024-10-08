@@ -1,4 +1,4 @@
-[![header](./Banner.jpg)](https://www.linkedin.com/in/bhavinvr/)
+[![header](./Banner.jpg.png)](https://www.linkedin.com/in/bhavinvr/)
 
 # Oi, World! I'm Bhavin 👋
 
