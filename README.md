@@ -24,7 +24,60 @@ While I started my journey with **Deep Learning** and applications of AI in **Si
 <code><img width="10%" src="./ollama-black.svg"></code>
 </div>
 
+## Recent Projects 
+
+I am tinkerer at heart and you can always keep a track of this space to know what I am working on next! 
+
+**DataDistill[WIP]** 
+
+I am currently building DataDistill. A Python library which will be the one stop (free)shop for all the sampling needs. Imagine this: 
+
+- You are an ML Developer. You have a dataset and you need to quickly iterate over models to get a heuristic of what could potentially work and what wouldn't.
+- Natuarally, you COULD try full training for all candidate models, but we both know your manager wouldn't want to wait 5 Business days until you get back with the POC.
+- Enter DataDistill. With DataDistill, you can create an accurate subset of your dataset that not only is a 10th of the original dataset, but also preserves data-patterns.
+
+
+**Apollog** 
+
+AI Powered fully managed no-code Log Analysis suite. 
+
+Imagine having a service that has several components working in tandem. Traditionally, you would use cloudwatch logs and manually trace issues in the production which could get tricky as services get more complex. Enter Apollog. With Apollog, you can simply provide a description of your services and the cloudwatch Namespaces and now you have access to automated Log Aggregation and event summarization without worrying about managing additional services. Apollog takes your service's config and build's a sidecar stack in cloudwatch that runs 24/7 to aggregate your logs across components and generates event summaries in case of errors. 
+
+You can try it here : https://pypi.org/project/apollog/ 
+
+**Zero's Velocity** 
+
+Velocity is a simple and free to use VS Code extension that works as your Friendly neighborhood Senior Engineer and helps you get those PRs merged quicker. 
+
+- It automatically looks at the latest commit(s) or specific commits and the changes.
+- Provided detailed overview of what changes could be made to make the code cleaner and robust.
+- Explains the changes and improvements in actionable format.
+
+The purpose of this extension is having fewer revisions and more impact! 
+
+Try it Here : https://marketplace.visualstudio.com/items?itemName=ZeroDev.velocityReview 
+
 ## 💼 Work Experience 
+
+**Amazon** 
+
+Worked as : SDE 1
+
+Within a month of joining Amazon, I was able to develop a service that 
+- Reduced the data read latencies for ML Tranining pipelines by 10x through automatic cross region data transfer.
+- Virtually elmininated the Data transfer related operational load by over 80%.
+- Replaced Manual Data transfer workflows with automated self-service CLI.
+
+  
+**Allegion**
+
+Worked as : Data Science Intern (Capstone Project)
+
+I helped Allgion identify key design issues in their signature product lines that helped dissect over $2M in warranty claims to specific issues in product and testing. 
+
+**Data Mining and Data Analysis** : I developed powereful hierarchical clustering algorithm that used a mix of LLM inferences and foundational hierachical clustering to break down textual customer complaint data into actionable product issues and probable causes. 
+
+**What, Where and When** : Through the detailed analysis, we discovered the journey of the product from Design to retail and identified key datapoints that identified the source of warranties in terms of geographic regions, climates, time of manufacturing and specific product variants. Converting data into actionable insights for the product and testing team to consider moving forward. 
 
 **Kellogg School of Management**
 
